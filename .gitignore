@@ -1,0 +1,46 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Application
+*.log
+.env
+.env.local
+.env.*.local
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot
+log/
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite
